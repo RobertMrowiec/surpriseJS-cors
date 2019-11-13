@@ -1,0 +1,27 @@
+{
+  "name": "surprisejs-cors",
+  "version": "0.0.2",
+  "description": "Middleware for including CORS to Your express.js application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertMrowiec/surpriseJS-cors.git"
+  },
+  "keywords": [
+    "cors",
+    "nosql",
+    "express",
+    "node.js",
+    "express.js",
+    "surpriseJS"
+  ],
+  "author": "Robert Mrowiec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RobertMrowiec/surpriseJS-cors/issues"
+  },
+  "homepage": "https://github.com/RobertMrowiec/surpriseJS-cors#readme"
+}

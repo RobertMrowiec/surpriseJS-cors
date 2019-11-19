@@ -11,7 +11,7 @@ module.exports = (allowedOrigins, headers = undefined) => {
 		response.setHeader("Access-Control-Allow-Headers", allowedHeaders)
 		response.setHeader('Access-Control-Allow-Methods', allowedMethods)
 
-		return next()
+		return request.method === 'OPTIONS' ? response.send() : next()
 	}
 }
 

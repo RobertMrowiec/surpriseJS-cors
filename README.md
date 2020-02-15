@@ -51,9 +51,6 @@ const headers = 'Content-Type, Accept, Authorization'
 
 You can find list of headers here: [List of headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Allow-Headers)
 
-# Tests
-`Soon`
-
 # Problems 
 If You get some problems, don't be afraid to contact or create an issue :)
 
